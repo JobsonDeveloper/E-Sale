@@ -41,7 +41,7 @@ Além disso, o projeto foi pensado como um ambiente de aprendizado e experimenta
 
 [👉 Acessar diagrama](https://miro.com/welcomeonboard/WDd5bTU0KzA5eGNUY0dpMlRncU05V0pDendOQzlHUXVJZ2k4aUtWT2JyRm1tTVU2Q1F1VUNpNkJPRFlUYWVLZldTK1BXQnNId2N2NXZWeDVJc2hxR0pNM0VWNjh4QnovbGlSSGphRTJsdUt3QWVUSExjdkVGSnJmSWtOV0ZKczhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=666215258423)
 
-![E-Sale - Main flow (Make a sale and delivery of products) (1)](https://github.com/user-attachments/assets/c6acc0a8-ac4d-4c9c-aaa2-1b5334b76b45)
+![E-Sale - Main flow (Make a sale and delivery the products)](https://github.com/user-attachments/assets/093a16cc-a128-4828-899a-8075d298c509)
 
 ![E-Sale - Cancel a sale](https://github.com/user-attachments/assets/f0bd1445-868c-4610-b9ea-6100bf607358)
 
