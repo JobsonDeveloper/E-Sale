@@ -73,6 +73,7 @@ Além disso, o projeto foi pensado como um ambiente de aprendizado e experimenta
 - [📦 Product](https://github.com/JobsonDeveloper/Product-Microservice)
 - [💰 Sale](https://github.com/JobsonDeveloper/Sale-Microservice)
 - [💳 Payment](https://github.com/JobsonDeveloper/Payment-Microservice)
+- [🚚 Delivery](https://github.com/JobsonDeveloper/Delivery-Microservice)
 
 ## 🚀 Como testar
 
@@ -87,5 +88,5 @@ docker compose up -d
 ```
 4. 🌐 Acesse a documentação das APIs:
 ```
-http://localhost:(8082,8083,8084 ou 8085)/swagger-ui/index.html
+http://localhost:(8082,8083,8084,8085 ou 8086)/swagger-ui/index.html
 ```
