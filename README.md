@@ -21,6 +21,7 @@ Durante o desenvolvimento do projeto, foram exploradas diversas tecnologias e pr
 - 🐳 Docker para conteinerização
 - 💳 Mercado Pago para pagamentos
 - 🍃 MongoDB para armazenamento dos dados
+- ☁️ AWS para notificação dos processos da compra realizada
 
 Esse processo permitiu compreender melhor desafios de sistemas distribuídos, como:
 
