@@ -42,9 +42,9 @@ Além disso, o projeto foi pensado como um ambiente de aprendizado e experimenta
 
 [👉 Acessar diagrama](https://miro.com/welcomeonboard/WDd5bTU0KzA5eGNUY0dpMlRncU05V0pDendOQzlHUXVJZ2k4aUtWT2JyRm1tTVU2Q1F1VUNpNkJPRFlUYWVLZldTK1BXQnNId2N2NXZWeDVJc2hxR0pNM0VWNjh4QnovbGlSSGphRTJsdUt3QWVUSExjdkVGSnJmSWtOV0ZKczhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=666215258423)
 
-![E-Sale - Main flow (Make a sale and delivery the products) (2)](https://github.com/user-attachments/assets/53d2e42c-4d01-448b-854d-5d117b4b1177)
+![E-Sale - Main flow (Make a sale and delivery the products) (2)](https://github.com/user-attachments/assets/3b6fa3cc-6a1f-45a0-8664-d19d141d78a9)
 
-![E-Sale - Cancel a sale (1)](https://github.com/user-attachments/assets/726eb8a7-fa73-42d4-b659-8cb841d37170)
+![E-Sale - Cancel a sale (1)](https://github.com/user-attachments/assets/9ebb983b-52cc-42dd-821e-9bdb467ca112)
 
 ## 📋 Gerenciamento do projeto (Kanban)
 
@@ -74,6 +74,7 @@ Além disso, o projeto foi pensado como um ambiente de aprendizado e experimenta
 - [📦 Product](https://github.com/JobsonDeveloper/Product-Microservice)
 - [💰 Sale](https://github.com/JobsonDeveloper/Sale-Microservice)
 - [💳 Payment](https://github.com/JobsonDeveloper/Payment-Microservice)
+- [🚚 Delivery](https://github.com/JobsonDeveloper/Delivery-Microservice)
 
 ## 🚀 Como testar
 
@@ -88,5 +89,5 @@ docker compose up -d
 ```
 4. 🌐 Acesse a documentação das APIs:
 ```
-http://localhost:(8082,8083,8084 ou 8085)/swagger-ui/index.html
+http://localhost:(8082,8083,8084,8085 ou 8086)/swagger-ui/index.html
 ```
