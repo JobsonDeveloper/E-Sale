@@ -15,6 +15,7 @@ Durante o desenvolvimento do projeto, foram exploradas diversas tecnologias e pr
 - 🧠 Miro para idealização e fluxos
 - 📊 GitHub Projects para gerenciamento
 - 🌱 Spring Boot para criação dos microserviços
+- 🔐 OAuth2 com JWT para autenticação e autorização
 - 📄 Swagger para documentação das APIs
 - 🔗 OpenFeign para realizações de requisições HTTP
 - 📡 Apache Kafka para mensageria entre os microserviços
