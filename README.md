@@ -1,4 +1,5 @@
-# 🛍️ E-Sale
+<img width="1920" height="904" alt="E-Sale" src="https://github.com/user-attachments/assets/3883f9d5-fac5-454a-b6e3-e6f4efc4ca84" />
+
 ## 📌 Sobre o projeto
 
 Projeto criado com o intúito de aprofundar meus conhecimentos em arquitetura de 𝗺𝗶𝗰𝗿𝗼𝘀𝘀𝗲𝗿𝘃𝗶ç𝗼𝘀 utilizando o ecossistema
